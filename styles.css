@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+p {
+    margin: 25px;
+    padding: 25px 50px;
+    background-color: pink;
+}
+
+.contents {
+    background-color: sandybrown;
+}
+
+#copyright {
+    background-color: yellowgreen;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
