@@ -5,8 +5,23 @@ p {
     background-color: pink;
 }
 
+.title {
+    background-color: whitesmoke;
+}
+
 .contents {
     background-color: sandybrown;
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 1.1em;
+    margin: 1em;
 }
 
 #copyright {
@@ -14,14 +29,48 @@ p {
 }
 
 body {
-    margin: 8px;
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
     display: block;
+    background-color: skyblue;
+}
+
+header, main, footer {
+    background-color: burlywood;
 }
 
 #mainHeading{
     color: red;
+    text-align: center;
 }
 
 .funParagraph {
     color: green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+figure figcaption {
+    font-style: italic;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
