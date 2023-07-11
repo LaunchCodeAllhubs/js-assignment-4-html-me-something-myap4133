@@ -17,3 +17,11 @@ body {
     margin: 8px;
     display: block;
 }
+
+#mainHeading{
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
