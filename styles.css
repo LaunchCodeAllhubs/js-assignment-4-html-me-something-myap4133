@@ -29,9 +29,8 @@ nav ul li {
 }
 
 body {
-    width: 100%;
-    max-width: 1024px;
-    margin: auto;
+    width: 98.7%;
+    margin: 8px;
     display: block;
     background-color: skyblue;
 }
