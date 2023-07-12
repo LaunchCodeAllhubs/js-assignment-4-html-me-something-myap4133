@@ -3,6 +3,7 @@ p {
     margin: 25px;
     padding: 25px 50px;
     background-color: pink;
+    font-size: 1.2em;
 }
 
 .title {
@@ -68,6 +69,7 @@ img {
 figure figcaption {
     font-style: italic;
     text-align: center;
+    font-size: 1.1em;
 }
 
 footer {
