@@ -1,1 +1,77 @@
 /* Write your CSS here! */
+p {
+    margin: 25px;
+    padding: 25px 50px;
+    background-color: pink;
+    font-size: 1.2em;
+}
+
+.title {
+    background-color: whitesmoke;
+}
+
+.contents {
+    background-color: sandybrown;
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 1.1em;
+    margin: 1em;
+}
+
+#copyright {
+    background-color: yellowgreen;
+}
+
+body {
+    width: 98.7%;
+    margin: 8px;
+    display: block;
+    background-color: skyblue;
+}
+
+header, main, footer {
+    background-color: burlywood;
+}
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+figure figcaption {
+    font-style: italic;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+footer {
+    text-align: center;
+}
